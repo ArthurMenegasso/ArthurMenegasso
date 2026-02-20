@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor em evolução  
 🚀 Focado em desenvolvimento web e backend com Python  
-📍 Brasil  
+📍 SP | Brasil  
 
 ---
 
