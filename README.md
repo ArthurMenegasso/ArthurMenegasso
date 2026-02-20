@@ -64,10 +64,4 @@ e aprender arquitetura de sistemas mais estruturados.
 📧 Email: duartearthur04@hotmail.com  
 💼 LinkedIn: [linkedin.com/in/seuperfil  ](https://www.linkedin.com/in/arthurmenegasso04?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
----
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact)
