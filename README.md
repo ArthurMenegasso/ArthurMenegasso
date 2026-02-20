@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Arthur Menegasso
+#  Sou Arthur Menegasso
 
 💻 Desenvolvedor em evolução  
 🚀 Focado em desenvolvimento web e backend com Python  
