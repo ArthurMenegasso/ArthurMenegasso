@@ -1,3 +1,5 @@
+![Banner](./banner-arthur.svg)
+
 #  Sou Arthur Menegasso
 
 💻 Desenvolvedor em evolução  
