@@ -1,4 +1,4 @@
-![Banner](./banner-arthur.svg)
+
 
 #  Sou Arthur Menegasso
 
