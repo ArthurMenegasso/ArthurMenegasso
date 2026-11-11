@@ -36,7 +36,9 @@ Consulta de ramais internos por colaborador e departamento, com atualização em
 `Python` `Flask` `WebSocket` `JavaScript`
 
 
-
+### Realce *(em desenvolvimento, em parceria com [@joaomartinszx](https://github.com/joaomartinszx))*
+Rede social e marketplace de profissionais de beleza para todo o Brasil, com funcionamento em tempo real. Desenvolvido em dupla com fluxo profissional: branch `main` protegida, branches de feature e Pull Requests com revisão obrigatória entre os devs.
+`React Native` `Expo` `Supabase`
 
 ---
 
